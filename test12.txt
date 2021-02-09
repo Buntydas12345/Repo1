@@ -1,0 +1,10 @@
+ Volume in drive G is New Volume
+ Volume Serial Number is B429-90E9
+
+ Directory of G:\11s
+
+09-02-2021  13:05    <DIR>          .
+09-02-2021  13:05    <DIR>          ..
+09-02-2021  13:05                 0 test12.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  127,107,133,440 bytes free
